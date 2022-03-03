@@ -35,7 +35,7 @@ nav li,footer li {
     padding: 0 .25em ;
 }
 a {
-    color: aquamarine ;
+    color: #107297 ;
 }
 header h1 {
 	font-size: 48pt ;
@@ -62,7 +62,7 @@ header h1 {
 }
 
 .episode:nth-child(odd) img {
-    float: left ;
+    float: right ;
 }
 }
 .qr { max-width: 150px ; padding: 10px }
