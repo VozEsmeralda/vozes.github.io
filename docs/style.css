@@ -15,8 +15,8 @@ header {
 body {
 	max-width: 1000px ;
 	margin: auto;
-    color: #eee ;
-	background: #212;
+    color: #000 ;
+	background: #0b9fe72e;
 	padding-left: 1em ;
 	padding-right: 1em ;
 }
